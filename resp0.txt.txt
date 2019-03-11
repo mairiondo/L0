@@ -1,0 +1,17 @@
+pdw
+sd
+cd desktop
+cd L0
+git add *
+git commit -m "nuevo"
+git push
+git pull
+git add *
+git commit -m "hola"
+git push
+git add *
+git pull
+history
+doskey
+History
+doskey /History
